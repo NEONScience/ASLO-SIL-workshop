@@ -2,11 +2,11 @@
 Montreal, Quebec
 12 May, 2026
 
-<span style="font-size: 20px;">About</span>
+## About
 
 Re-use of publicly available data in aquatic science is becoming increasingly common. Pooling of publicly available data across distributed sources has numerous advantages, including expanded geographic coverage and increased modeling power. However, even when FAIR (Findability, Accessibility, Interoperability and Reusability) principles are followed, and emerging tools such as AI are utilized, harmonizing data from distributed sources can still remain challenging.  This workshop seeks to bring together a diverse group of aquatic scientists with the primary goal of identifying key ways to further improving the data harmonization process. A secondary goal is to identify specific research questions that would benefit from pooled datasets and develop a plan for compiling these datasets. Potential outcomes include an L&O Bulletin paper summarizing the workshop activities, formation of working groups aimed at specific questions/datasets, and development of proposals for future work.
 
-<span style="font-size: 20px;">Agenda</span>
+## Agenda
 
 13:30-14:00     Introduction
 
