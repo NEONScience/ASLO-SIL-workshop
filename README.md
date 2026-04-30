@@ -11,7 +11,9 @@ Re-use of publicly available data in aquatic science is becoming increasingly co
 13:30-14:00     Introduction
 
 13:45-14:00     Patricia Soranno, MSU - Lagos Research Platforms
+
 14:00-14:15     Bennett McAfee, GVSU - LakeBeD-US dataset
+
 14:15-14:30     Micahel Meyer, USGS - AquaMatch database
 
 14:30-15:00     Discussion: What are the "Big Questions" we would like to address by pooling distributed datasets?
